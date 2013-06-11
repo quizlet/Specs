@@ -16,6 +16,6 @@ LICENSETEXT
   s.author      = { "Quizlet" => "jake@quizlet.com"}
   s.source       = { :git => "https://github.com/quizlet/UIPlaceHolderTextView.git", :tag => "1.0" }
   s.platform     = :ios, '5.0'
-  s.source_files = 'UIPlaceHolderTextView.{h,m}'
+  s.source_files = 'UIPlaceHolderTextView.m'
   s.requires_arc = true
 end
