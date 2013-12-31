@@ -17,5 +17,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
   }
   s.author       = 'Quizlet'
   s.homepage = 'https://github.com/oldschoolindustries/quizlet-shared-config'
-  s.documentation = {}
  end
